@@ -1,0 +1,23 @@
+---
+title: "C_K_WILD_5200_Fall2025"
+author: "Chris Khalaf"
+format: html
+editor: visual
+---
+
+## 
+
+**8/29/2025**
+
+```{r}
+
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "5", circle_area, "\n")
+```
+
+![](Desktop/Screen Shot 2025-08-29 at 6.25.28 PM.png)
