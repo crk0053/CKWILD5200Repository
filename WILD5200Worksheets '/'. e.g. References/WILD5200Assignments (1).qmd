@@ -1,0 +1,87 @@
+---
+title: "C_K_WILD_5200_Fall2025"
+author: "Chris Khalaf"
+format: html
+editor: visual
+---
+
+## 
+
+**8/29/2025**
+
+```{r}
+
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "5", circle_area, "\n")
+```
+
+![](Desktop/Screen%20Shot%202025-08-29%20at%206.25.28%20PM.png)
+
+------------------------------------------------------------------------
+
+**9/22/2025**
+
+![](Downloads/ss_table.png)
+
+1.  The necessary sample size to detect a disease at 5% prevalence for a total population of 5000 deer at 95% confidence would be at least 59.
+
+2.  a\. The necessary sample size to detect a disease at 1% prevalence for a large population at 95% confidence would approximately be at least 299.
+
+    b\. The necessary sample size to detect a disease at 2% prevalence for a large population at 99% confidence would approximately be at least 229.
+
+c. We are 95% confident that EHD prevalence is \<1% in this facility.
+
+------------------------------------------------------------------------
+
+**10/2/2025**
+
+Jan's research focuses on an elk herd housed in an enclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10th June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
+
+RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
+
+a\. Find incidence on day 06/12/25, 06/14/25, and 06/15/25. Write the unit for incidence.
+
+Incidence = The number of new cases/The number of the susceptible population.
+
+The unit for incidence is the proportion of cases per susceptible population per unit of time.
+
+The incidence for conjunctivitis on 06/12/25 is 0.098 cases per susceptible elk per day.
+
+Since the cumulative cases prior to 06/12/25 amounts to 5, we subtract 5 from the susceptible population to achieve a denominator of 51. The number of new cases on 06/12/25 is 5. Therefore, we divide 5 by 51 to find the incidence of 0.098.
+
+The incidence for conjunctivitis on 06/14/25 is 0.045 cases per susceptible elk per day.
+
+Since the cumulative cases prior to 06/14/25 amounts to 12, we subtract 12 from the total susceptible population to achieve a denominator of 44. The number of new cases on 06/14/25 is 2. Therefore, we divide 2 by 44 to find the incidence of 0.045.
+
+The incidence for conjunctivitis on 06/15/25 is 0.00 cases per susceptible elk per day.
+
+Since the cumulative cases prior to 06/15/25 amounts to 14, we subtract 14 from the total susceptible population to achieve a denominator of 42. However, no new cases appeared on 06/15/25. Therefore, we divide 0 by 41 to find the incidence of 0.00.
+
+b\. What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25?
+
+Prevalence = \# of infected/total population
+
+There is 21.4% prevalence of conjunctivitis on 06/13/25
+
+We observe 12 infected elk on 06/13/25. Therefore, we divide 12 by 56 to calculate prevalence as a proportion of population to measure approximately 0.214. Then, we multiply this value by 100% to determine the units of prevalence.
+
+There is 8.93% prevalence of conjunctivitis on 06/16/25,
+
+We observe 5 infected elk on 06/16/25. Therefore, we divide 5 by 56 to calculate prevalence as a proportion of population to measure approximately 0.0893. Then, we multiply this value by 100% to determine the units of prevalence.
+
+c\. On which day is the prevalence the same as the incidence (except the units)?
+
+The incidence and prevalence are the same on 06/10/25 with a value of 0.018.
+
+Since prevalence = the number of infected/the total population, the prevalence is 1/56 on 06/10/25.
+
+Since incidence = the number of new cases/the susceptible population per unit of time, the incidence is 1/56 on 06/10/25.
+
+d\. On which day is incidence lowest?
+
+The lowest incidence occurs on 06/15/25 and 06/16/25 as no new cases occur on each of those days. Therefore, the incidence is 0. Dividing 0 new cases by the susceptible population yields the lowest incidence for those two days.
