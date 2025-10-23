@@ -103,3 +103,27 @@ Test Corrections
 Basic tick identification includes four components, life stage, sex, genus, and species. Firstly, the presence of a genital pore and the number of legs are used to determine the life stage. A genital pore signifies that the tick is an adult. Additionally, leg number is used to confirm lifestage. If a tick has eight legs, then the tick is considered an adult or a nymph, which is further distinguished through a subjective size comparison. Otherwise, a tick is classified as larva if there are only six legs present. Next, the scutum is observed to identify a tick's sex. It is especially important to distinguish between conscutum and alloscutum features. Conscutum refers to a smooth body surface with ridges and punctuations, while alloscutum allows female ticks to engorge during blood meals. After sex identification, the genus can be distinguished. Anal groove position is observed to detect genus. The anal groove is either anterior or posterior (appears at the abdomen). Lastly, mouth parts and a dichotomous key are used to identify species, where mouth parts are differentiated by a protruding or a short head. The dichotomous key captures specific features of a tick to enhance identification. Integrating all of the necessary components is fundamental for basic tick identification.
 
 Tick ecology is an increasingly relevant subject in discussions about public health implications. In the era of climate change and rising temperatures, ticks have undergone range expansion, alongside an increase in the frequency of tick-borne diseases, such as Lyme's disease, Powassan virus, and Alpha-gal. These disease produce various adverse health consequences, such as a suppressed immune system, meningitis, increased vulnerability to coinfection, and even death. Stakeholders have a responsibility to monitor land usage and the presence of ticks as vectors to mitigate the scope of tick-borne diseases.
+
+------------------------------------------------------------------------
+
+**10/23/2025: Multihost Pathogens and Spillover**
+
+1.  MERS-CoV is primarily maintained in human populations.
+
+    False, MERS-CoV is not primarily maintained in humans. Although human-to-human transmission occurs in close contact, humans are not dead-end hosts and the virus does not sustain itself due to coinfection, public response, and cross immunity. Rather, MERS-CoV is maintained in bats as the resevoir hosts and underwent a host-shift event in camels as novel hosts.
+
+2.  Camels serve as the main animal reservoir for MERS-CoV.
+
+False, bats are the main animal resevoir for MERS-CoV. They maintain the virus without interactions from additional host species.
+
+3.  Humans are dead-end hosts for MERS-CoV.
+
+False, humans are not dead-end hosts. They can transmit the infection with close, human-to-human contact. Transmission is especially associated with healthcare settings.
+
+4.  The estimated case-fatality rate for human MERS-CoV infections is approximately 65%
+
+False, the case-fatality rate for human MERS-CoV infections is approximately 35%, not 65%.
+
+5.  The epidemic curve indicates this is a point source infection.
+
+False, the epidemic curve presents a propogated outbreak. The peaks of the epidemic curve appear to be separated by each incubation period.
