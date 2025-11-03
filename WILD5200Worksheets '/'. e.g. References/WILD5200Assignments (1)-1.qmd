@@ -1,0 +1,146 @@
+---
+title: "C_K_WILD_5200_Fall2025"
+author: "Chris Khalaf"
+format: html
+editor: visual
+---
+
+## 
+
+**8/29/2025**
+
+```{r}
+
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "5", circle_area, "\n")
+```
+
+![](Desktop/Screen%20Shot%202025-08-29%20at%206.25.28%20PM.png)
+
+------------------------------------------------------------------------
+
+**9/22/2025**
+
+![](Downloads/ss_table.png)
+
+1.  The necessary sample size to detect a disease at 5% prevalence for a total population of 5000 deer at 95% confidence would be at least 59.
+
+2.  a\. The necessary sample size to detect a disease at 1% prevalence for a large population at 95% confidence would approximately be at least 299.
+
+    b\. The necessary sample size to detect a disease at 2% prevalence for a large population at 99% confidence would approximately be at least 229.
+
+<!-- -->
+
+c.  We are 95% confident that EHD prevalence is \<1% in this facility.
+
+------------------------------------------------------------------------
+
+**10/2/2025**
+
+Jan's research focuses on an elk herd housed in an enclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10th June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
+
+RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
+
+a\. Find incidence on day 06/12/25, 06/14/25, and 06/15/25. Write the unit for incidence.
+
+Incidence = The number of new cases/The number of the susceptible population.
+
+The unit for incidence is the proportion of cases per susceptible population per unit of time.
+
+The incidence for conjunctivitis on 06/12/25 is 0.098 cases per susceptible elk per day.
+
+Since the cumulative cases prior to 06/12/25 amounts to 5, we subtract 5 from the susceptible population to achieve a denominator of 51. The number of new cases on 06/12/25 is 5. Therefore, we divide 5 by 51 to find the incidence of 0.098.
+
+The incidence for conjunctivitis on 06/14/25 is 0.045 cases per susceptible elk per day.
+
+Since the cumulative cases prior to 06/14/25 amounts to 12, we subtract 12 from the total susceptible population to achieve a denominator of 44. The number of new cases on 06/14/25 is 2. Therefore, we divide 2 by 44 to find the incidence of 0.045.
+
+The incidence for conjunctivitis on 06/15/25 is 0.00 cases per susceptible elk per day.
+
+Since the cumulative cases prior to 06/15/25 amounts to 14, we subtract 14 from the total susceptible population to achieve a denominator of 42. However, no new cases appeared on 06/15/25. Therefore, we divide 0 by 41 to find the incidence of 0.00.
+
+b\. What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25?
+
+Prevalence = \# of infected/total population
+
+There is 21.4% prevalence of conjunctivitis on 06/13/25
+
+We observe 12 infected elk on 06/13/25. Therefore, we divide 12 by 56 to calculate prevalence as a proportion of population to measure approximately 0.214. Then, we multiply this value by 100% to determine the units of prevalence.
+
+There is 8.93% prevalence of conjunctivitis on 06/16/25,
+
+We observe 5 infected elk on 06/16/25. Therefore, we divide 5 by 56 to calculate prevalence as a proportion of population to measure approximately 0.0893. Then, we multiply this value by 100% to determine the units of prevalence.
+
+c\. On which day is the prevalence the same as the incidence (except the units)?
+
+The incidence and prevalence are the same on 06/10/25 with a value of 0.018.
+
+Since prevalence = the number of infected/the total population, the prevalence is 1/56 on 06/10/25.
+
+Since incidence = the number of new cases/the susceptible population per unit of time, the incidence is 1/56 on 06/10/25.
+
+d\. On which day is incidence lowest?
+
+The lowest incidence occurs on 06/15/25 and 06/16/25 as no new cases occur on each of those days. Therefore, the incidence is 0. Dividing 0 new cases by the susceptible population yields the lowest incidence for those two days.
+
+------------------------------------------------------------------------
+
+**10/13/25**
+
+Test Corrections
+
+7.  In 2015, Saiga antelope calving aggregations migrated to Central Kazakhstan and experienced a mass mortality event. The mass mortality is attributed to hemorrhagic septicemia caused by *Pasteurella multocida* type B. However, *Pasteurella* strains are typically found in both healthy and sick saigas. Characteristics of climate and livestock interactions were rather assessed to determine how the bacterial infection was exacerbated. Furthermore, modeling indicates that there were unusually high relative humidity levels and temperatures ahead of the mass mortality event, which demonstrates consistency with two previous outbreaks. Environmental triggers, such as aggregation stress, livestock transmission, and paramyxovirus infections, are further linked to the saiga antelopes' vulnerability to *Pasteurella multocida* outbreaks. To prevent future mass mortality events, livestock vaccination, anti-poaching actions, and disease modeling strategies can be implemented. Lastly, limiting human activities in the saiga antelopes' migration grounds is a broader conservation strategy to prevent extinction and ecological disruptions that act as stressors.
+
+    9\. R~o~:the average number of new infections caused by a single infected individual in a fully susceptible population, where R~o~= 6 susceptible individuals/4 infected. R~o~= 1.5. Applying R~o~ indicates that one infectious individual on average causes 1.5 new infections within a fully susceptible population.
+
+------------------------------------------------------------------------
+
+**10/13/25**
+
+Basic tick identification includes four components, life stage, sex, genus, and species. Firstly, the presence of a genital pore and the number of legs are used to determine the life stage. A genital pore signifies that the tick is an adult. Additionally, leg number is used to confirm lifestage. If a tick has eight legs, then the tick is considered an adult or a nymph, which is further distinguished through a subjective size comparison. Otherwise, a tick is classified as larva if there are only six legs present. Next, the scutum is observed to identify a tick's sex. It is especially important to distinguish between conscutum and alloscutum features. Conscutum refers to a smooth body surface with ridges and punctuations, while alloscutum allows female ticks to engorge during blood meals. After sex identification, the genus can be distinguished. Anal groove position is observed to detect genus. The anal groove is either anterior or posterior (appears at the abdomen). Lastly, mouth parts and a dichotomous key are used to identify species, where mouth parts are differentiated by a protruding or a short head. The dichotomous key captures specific features of a tick to enhance identification. Integrating all of the necessary components is fundamental for basic tick identification.
+
+Tick ecology is an increasingly relevant subject in discussions about public health implications. In the era of climate change and rising temperatures, ticks have undergone range expansion, alongside an increase in the frequency of tick-borne diseases, such as Lyme's disease, Powassan virus, and Alpha-gal. These disease produce various adverse health consequences, such as a suppressed immune system, meningitis, increased vulnerability to coinfection, and even death. Stakeholders have a responsibility to monitor land usage and the presence of ticks as vectors to mitigate the scope of tick-borne diseases.
+
+------------------------------------------------------------------------
+
+**10/23/2025: Multihost Pathogens and Spillover**
+
+1.  MERS-CoV is primarily maintained in human populations.
+
+    False, MERS-CoV is not primarily maintained in humans. Although human-to-human transmission occurs in close contact, humans are not dead-end hosts and the virus does not sustain itself due to coinfection, public response, and cross immunity. Rather, MERS-CoV is maintained in bats as the resevoir hosts and underwent a host-shift event in camels as novel hosts.
+
+2.  Camels serve as the main animal reservoir for MERS-CoV.
+
+False, bats are the main animal resevoir for MERS-CoV. They maintain the virus without interactions from additional host species.
+
+3.  Humans are dead-end hosts for MERS-CoV.
+
+False, humans are not dead-end hosts. They can transmit the infection with close, human-to-human contact. Transmission is especially associated with healthcare settings.
+
+4.  The estimated case-fatality rate for human MERS-CoV infections is approximately 65%
+
+False, the case-fatality rate for human MERS-CoV infections is approximately 35%, not 65%.
+
+5.  The epidemic curve indicates this is a point source infection.
+
+False, the epidemic curve presents a propogated outbreak. The peaks of the epidemic curve appear to be separated by each incubation period.
+
+------------------------------------------------------------------------
+
+**11/2/2025**
+
+1.  Using the community epidemiology framework developed by Fenton and Pedersen,\
+    would you classify this Marburg virus outbreak as a spillover event or an emerging\
+    infectious disease? Justify your classification.
+
+    Under Fenton and Pederson's community epidemiology framework, Marburg virus would be classified as a potential emerging infectious disease. Cross-species infection occurred between the resevoir hosts, Egyptian rousette bats, and humans. The Marburg virus is able to be maintained among human hosts through close human-to-human transmission, typically in healthcare settings, which extends beyond a single spillover event.
+
+2.  What measures could be implemented to reduce the risk of transmission in both\
+    community and healthcare settings?
+
+    Community prevention could be effective through preventative health education. Physicians and specialists could inform the public to be aware of bats as the reservoirs and ultimately reduce contact that could lead into transmission. Additionally, strict PPE adherence can be used for workers treating infected individuals and frequent cleaning can be employed to disinfect contaminated surface.
