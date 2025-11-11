@@ -144,3 +144,23 @@ False, the epidemic curve presents a propogated outbreak. The peaks of the epide
     community and healthcare settings?
 
     Community prevention could be effective through preventative health education. Physicians and specialists could inform the public to be aware of bats as the reservoirs and ultimately reduce contact that could lead into transmission. Additionally, strict PPE adherence can be used for workers treating infected individuals and frequent cleaning can be employed to disinfect contaminated surface.
+
+    ------------------------------------------------------------------------
+
+**11/10/2025**
+
+1.  **Prevalence**
+
+    Pond 1 indicates a 30% prevalence of *Vertico* infection.
+
+    Pond 2 indicates a 6.7% prevalence of *Vertico* infection.
+
+2.  **Calculate the 95% Confidence Interval**
+
+    Pond 1 indicates a 30% prevalence (95% CI, 14%-53%) of *Vertico* infection.
+
+    Pond 2 indicates a 6.7% prevalences (95% CI, 0%-30%) of *Vertico* infection.
+
+3.  **Compare Prevalence Between the Two Ponds**
+
+    The Fisher exact p-value of 0.1987 indicates no statistically significant difference in *Vertico* prevalence between Ponds 1 and 2.
