@@ -164,3 +164,28 @@ False, the epidemic curve presents a propogated outbreak. The peaks of the epide
 3.  **Compare Prevalence Between the Two Ponds**
 
     The Fisher exact p-value of 0.1987 indicates no statistically significant difference in *Vertico* prevalence between Ponds 1 and 2.
+
+------------------------------------------------------------------------
+
+**11/17/2025**
+
+1.  Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
+    in places like Malaysia and Bangladesh. Describe how the modes of transmission differ\
+    between these two regions and explain how these differences influence the preventive\
+    measures recommended in each setting
+
+Nipah virus transmission differs significantly between Malaysia and Bangladesh because of differences in ecology and human–animal interactions. In Malaysia, the primary transmission cycle involved fruit bats infecting pigs, which then served as bridge hosts and transmitted the virus to humans through close contact and respiratory exposure on pig farms. Most cases were linked directly to pig interactions. In Bangladesh, however, transmission is largely through the consumption of raw date palm sap contaminated with bat saliva or urine. Unlike Malaysia, Bangladesh has frequent human-to-human transmission, especially among household caregivers and in healthcare settings. These differences fundamentally influence prevention strategies. In Malaysia, preventive measures focus on improving farm biosecurity by reducing bat-to-pig contact, ensuring pigs do not eat contaminated fruits, and using protective equipment for workers. In Bangladesh, prevention centers on discouraging consumption of raw date palm sap, using protective coverings over sap collection pots, and strengthening infection control practices in healthcare settings to limit human-to-human spread.
+
+2.  Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the\
+    different transmission routes of ARV and explain which environmental factors favor its\
+    transmission. What pathogen characteristics support one of these transmission routes?\
+    Finally, provide an example of a wild bird disease caused by ARV and briefly describe\
+    its impact on the affected population.
+
+Avian reoviruses can spread through several routes, including horizontal transmission by the fecal-oral route, respiratory exposure, direct contact among birds, and indirect transmission through contaminated surfaces. They can also be transmitted vertically when infected hens pass the virus to their offspring through the egg. Environmental conditions such as high-density housing, poor ventilation, warm and humid climates, and heavily contaminated surfaces all influence transmission by allowing the virus to persist and spread easily. One pathogen characteristic that supports these routes is that ARV is a non-enveloped, double-stranded RNA virus. This structure allows it to persist in the environment. A wild bird disease caused by ARV is arthritis in species such as ducks and geese. In these populations, the virus causes joint swelling, reduced mobility, and decreased fitness, which can impair migration and increase vulnerability to predators.
+
+3.  Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
+    Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
+    classified as a spillover and not a potential EID?
+
+Shrews are likely the resevoir of Langya henipavirus. Transmission often occurs through spillover from infected shrews to humans, likely through contact with contaminated materials. LayV is considered a spillover rather than a potential emerging infectious disease because cases have been infrequent, geographically limited, and associated with shrew exposure. Additionally, there is no evidence of efficient human-to-human transmission or persistent infection. Without ongoing or expanding transmission in the human population, LayV does not indicate an emerging infectious disease and instead represents spillover.
