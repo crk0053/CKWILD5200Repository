@@ -185,7 +185,60 @@ Nipah virus transmission differs significantly between Malaysia and Bangladesh b
 Avian reoviruses can spread through several routes, including horizontal transmission by the fecal-oral route, respiratory exposure, direct contact among birds, and indirect transmission through contaminated surfaces. They can also be transmitted vertically when infected hens pass the virus to their offspring through the egg. Environmental conditions such as high-density housing, poor ventilation, warm and humid climates, and heavily contaminated surfaces all influence transmission by allowing the virus to persist and spread easily. One pathogen characteristic that supports these routes is that ARV is a non-enveloped, double-stranded RNA virus. This structure allows it to persist in the environment. A wild bird disease caused by ARV is arthritis in species such as ducks and geese. In these populations, the virus causes joint swelling, reduced mobility, and decreased fitness, which can impair migration and increase vulnerability to predators.
 
 3.  Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
-    Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
+    Describe the likely reservoir and transmission
+
+    ------------------------------------------------------------------------
+
+    route of Langya virus. Why is LayV\
     classified as a spillover and not a potential EID?
 
 Shrews are likely the resevoir of Langya henipavirus. Transmission often occurs through spillover from infected shrews to humans, likely through contact with contaminated materials. LayV is considered a spillover rather than a potential emerging infectious disease because cases have been infrequent, geographically limited, and associated with shrew exposure. Additionally, there is no evidence of efficient human-to-human transmission or persistent infection. Without ongoing or expanding transmission in the human population, LayV does not indicate an emerging infectious disease and instead represents spillover.
+
+------------------------------------------------------------------------
+
+**11/25/25**
+
+1.  In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in\
+    the United States. What specific human behaviors contributed to the zoonotic\
+    spread of Salmonella? In your response, identify at least three practices by backyard\
+    poultry owners that increased the risk of Salmonella transmission, and briefly explain\
+    why these behaviors facilitated human infection.
+
+The zoonotic spread of Salmonella is especially driven by the ecological differences of backyard poultry. The extent of control exhibited in the bird-human interface substantially impacts transmission, especially regarding human behavior. Specifically, humans view of the backyard poultry as "pets" prompts increased risk of Salmonella infection, where humans will often cuddle with the birds and exhibit hand-to-mouth contact from contaminated surfaces. Children are most susceptible to these behaviors, but additional practices must be considered to holistically mitigate backyard poultry Salmonella transmission. These practices include inconsistent hygiene, non-standardized management, and allowing free roaming. The result of these practices enable Salmonella to persist in the external environment and, therefore, increased the risk of transmission in humans.
+
+2.  Tall fescue grass is commonly infected with a fungal endophyte (Epichloë\
+    coenophiala) that produces ergot alkaloids associated with fescue toxicosis in\
+    grazing livestock.
+
+    a\. What advantage does Tall fescue gain from being infected with a fungal\
+    endophyte?
+
+    Tall fescue gain a tolerance for droughts and overgrazing as a result of being infected with a fungal endophyte.
+
+    b\. What environmental and ecological factors drive the occurrence and severity of\
+    fescue toxicosis in grazing systems?
+
+    Fescue toxicosis is driven by various interactions in the external environment to determine the occurrence and severity in grazing systems. Namely, fescue toxicosis is a result of ergot alkaloid production from an infected endophyte. Four primary alkaloids are produced; however, the two most agronomically important are peramine and NFL, as they persist in the fescue, while ergovaline and lolitrem B are most toxic. These mechanisms significantly impact milk production, inhibiting economic growth; however, it is especially important to pinpoint the environmental interactions. The infection cycle underscores the importance of these interactions, indicating how the asexual cycle results in vertical transmission, while the sexual cycle leads to horizontal transmission. Furthermore, primary ecological and environmental drivers are temperature stress, drought stress, soil fertility, microbial communities, and grazing management strategies. The following factors require further consideration for their role in alkaloid production, endophyte expression, and toxin accumulation, and disease risk.
+
+    c\. What are the key clinical signs of fescue toxicity in cattle?
+
+    Clinical signs of fescue toxicity in cattle include weight loss, rough, discolored hair coats, and poor performance.
+
+------------------------------------------------------------------------
+
+**11/25/25**
+
+1.  What are the different routes of transmission for African Swine fever? What role do\
+    humans play in the spread and transmission of ASF?
+
+African Swine fever can be transmitted through various routes. Namely, African Swine fever is developed through vector transmission, via tick bites. However, African Swine fever can also be transmitted through direct contact of bodily fluids and feces, indirect contact through contaminated surfaces, environmental persistence in carcasses, and through humans as mechanical vectors. African Swine fever is especially perpetuated through human activity. Humans have contributed to habitat overlap between conversation sites and pig farming operations, inconsistent biosecurity measures with the level of movement pigs exhibit and slaughtering pracitces, and overall landscape fragmentation.
+
+2\. Describe how co-infection with Koala retrovirus (KoRV) affects the severity,\
+progression, and management of Chlamydia in koalas.
+
+Co-infection with KoRV result in increased difficult for Koala populations to respond to Chlamydia. KoRV inhibits the function of the immune system, making Koalas more susceptible to infection, increasing prevalence among the population and severity of clinical symptoms. Overall, Koalas demonstrate higher mortality and infertility rates as a result of coinfection with KoRV.
+
+3\. What are the key challenges associated with the surveillance and management of\
+Snake Fungal Disease (SFD)?
+
+There are various challenges associated with the surveillance and management of Snake Fungal Disease. Diagnostic challenges undermine the integrity of surveillance systems by producing false negatives in PCR testing. Additionally, fungal spores persist in the external environment, namely in moist soil and decaying organic matter, making it inherently difficult to curtail direct and indirect horizontal transmission routes. Naturally, it is difficult to limit snake-to-snake interactions and human-to-snake interactions can result in transmission due to contact with contaminated surfaces. All of these considerations underscore the challenges to curb SFD in the external environment and among the snake-human interface.
