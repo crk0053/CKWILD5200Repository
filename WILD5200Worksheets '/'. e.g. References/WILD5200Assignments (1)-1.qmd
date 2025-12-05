@@ -20,13 +20,15 @@ circle_area <- area_of_circle(radius)
 cat("The area of the circle with radius", radius, "5", circle_area, "\n")
 ```
 
+![](EpiTriad.png)
+
 ![](Desktop/Screen%20Shot%202025-08-29%20at%206.25.28%20PM.png)
 
 ------------------------------------------------------------------------
 
 **9/22/2025**
 
-![](Downloads/ss_table.png)
+![](ss_table (1).png)
 
 1.  The necessary sample size to detect a disease at 5% prevalence for a total population of 5000 deer at 95% confidence would be at least 59.
 
@@ -185,14 +187,35 @@ Nipah virus transmission differs significantly between Malaysia and Bangladesh b
 Avian reoviruses can spread through several routes, including horizontal transmission by the fecal-oral route, respiratory exposure, direct contact among birds, and indirect transmission through contaminated surfaces. They can also be transmitted vertically when infected hens pass the virus to their offspring through the egg. Environmental conditions such as high-density housing, poor ventilation, warm and humid climates, and heavily contaminated surfaces all influence transmission by allowing the virus to persist and spread easily. One pathogen characteristic that supports these routes is that ARV is a non-enveloped, double-stranded RNA virus. This structure allows it to persist in the environment. A wild bird disease caused by ARV is arthritis in species such as ducks and geese. In these populations, the virus causes joint swelling, reduced mobility, and decreased fitness, which can impair migration and increase vulnerability to predators.
 
 3.  Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
-    Describe the likely reservoir and transmission
-
-    ------------------------------------------------------------------------
-
-    route of Langya virus. Why is LayV\
+    Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
     classified as a spillover and not a potential EID?
 
 Shrews are likely the resevoir of Langya henipavirus. Transmission often occurs through spillover from infected shrews to humans, likely through contact with contaminated materials. LayV is considered a spillover rather than a potential emerging infectious disease because cases have been infrequent, geographically limited, and associated with shrew exposure. Additionally, there is no evidence of efficient human-to-human transmission or persistent infection. Without ongoing or expanding transmission in the human population, LayV does not indicate an emerging infectious disease and instead represents spillover.
+
+------------------------------------------------------------------------
+
+**11/25/25**
+
+1.  You have to analyze and summarize this data. Identify the patterns that emerge and\
+    use the available data to explain the patterns. Analyze this dataset to determine\
+    prevalence patterns and perform meaningful comparisons between different groups. For\
+    example, you can compare prevalence of B. procyonis between the three regions,\
+    between males and females in each region, between age classes in each region, etc.\
+    Please show your work, use Quantitative Parasitology for your calculations and\
+    comparisons. Provide confidence intervals for prevalence estimates. Finally, explain\
+    your analysis of this real-world data.
+
+Overall, 47% of the total raccoon population were infected, and the confidence interval for this estimate ranged from about 37% to about 57%.
+
+When comparing regions, strong differences appeared. In the Central region, about 64% of raccoons were infected and the confidence interval ranged from about 35% to about 87%. In the South region, about 63% were infected with a confidence interval from about 47% to 77% percent. In contrast, the North region had a much lower prevalence of about 29% with a confidence interval from about 17% to 43% . This pattern suggests that raccoons in the Central and South regions encounter infective eggs much more often than those in the North.
+
+Sex also showed clear differences. About 65% of females were infected, with a confidence interval from about 47% to 80%. Only about 38% of males were infected, with a confidence interval from about 26% to 50%. This indicates that female raccoons in this sample were more frequently exposed or more likely to maintain infection.
+
+Age class showed less contrast. Adults had a prevalence of about 52%, with a confidence interval from about 40% to 64%. Young adults had a prevalence of about 38%, with a confidence interval from about 23% to 55%. Because their confidence intervals overlap so widely, age does not appear to strongly influence infection in this dataset. This suggests that raccoons are exposed relatively early in life and remain exposed as they mature.
+
+Looking at worm burdens in infected animals also helps explain the ecological picture. Infected raccoons from the Central and South regions often carried heavier worm loads, while infected raccoons from the North generally had fewer worm loads. Females also tended to carry more worms on average than males. These heavier infections mean that Central and South raccoons, particularly females, may contribute more eggs to the environment, creating greater opportunities for transmission.
+
+Overall, the data show that infection by B. procyonis is shaped most strongly by region and sex. The Central and South regions appear to be transmission hotspots, and females show both higher prevalence and higher worm intensities. Age does not show a strong effect. These patterns help clarify how the parasite circulates in raccoon populations and where environmental contamination may be greatest.
 
 ------------------------------------------------------------------------
 
@@ -242,3 +265,109 @@ Co-infection with KoRV result in increased difficult for Koala populations to re
 Snake Fungal Disease (SFD)?
 
 There are various challenges associated with the surveillance and management of Snake Fungal Disease. Diagnostic challenges undermine the integrity of surveillance systems by producing false negatives in PCR testing. Additionally, fungal spores persist in the external environment, namely in moist soil and decaying organic matter, making it inherently difficult to curtail direct and indirect horizontal transmission routes. Naturally, it is difficult to limit snake-to-snake interactions and human-to-snake interactions can result in transmission due to contact with contaminated surfaces. All of these considerations underscore the challenges to curb SFD in the external environment and among the snake-human interface.
+
+------------------------------------------------------------------------
+
+**12/2/2025 WILD 5200 Final Exam**
+
+1.  a\. False, spillover is not characterized by high between-species transmission and no within-target species transmission of a pathogen. Rather, spillover indicates cross-species infection with both low net between-species (H1 to H2) transmission and low net within-species (H2) transmission.
+
+    b\. False, a disease caused by vectors is infectious as it resulted from pathogens that are transmissible. However, a disease only caused by vectors is not contagious because animal-to-animal transmission does not occur. Instead, transmission is dependent on the presence of vectors and infected hosts cannot transmit the disease to another individual.
+
+    c\. False, *Baylisascaris procyonis* cannot be directly transmitted to humans through direct contact following excretion. Humans act as accidental hosts, where eggs hatch to larvae, result in nematode migration, and result in the onset of disease. Humans cannot be infected by the eggs immediately after excretion as the eggs are not yet infectious. The egg is embryonated with larva in the external environment for 2-4 weeks until they are hatched after ingestion in humans.
+
+    d\. True
+
+    e\. False, northern cardinals are not considered superspreaders for West Nile Virus. Rather, American robins are considered superspreaders due to cascading impacts of food scarcity that increase the prevalence of infected Culexes, resulting in infected Culex to infect more American robins.
+
+2.  Community-based interventions for preventing dracunculiasis transmission includes protecting water sources with filters, preventing people and animals with emerging Guinea worms from entering water sources, and using larvicide in stagnant water reservoirs. Each intervention significantly impacts the life cycle of dracunculiasis. At the interventions, breaking the cycle of water fleas from entering into humans is paramount. Water fleas are unable to be ingested by humans and release larvae into the stomach, disrupting the mating process, preventing the migration to penetrate connective tissue, and limiting further exposure. This reality is especially true for filtering. Furthermore, preventing people and animals with emerging Guinea worms from entering water sources mitigates the release of first-stage larvae in the water. Therefore, water fleas cannot be infected by larvae and humans do not ingest infected waterfleas, thereby preventing the cycle from the start. Targeted use of larvicide acts in a similar manner by killing larvae before the infection of water fleas. Despite recent developments to eradicate Guinea worm, infections have reemerged as cases have soared in dogs. Efforts have been shifted to limit the mobility of dogs and modifying their behavior to prevent the consumption of contaminated fish entrails, proving to reduce Guinea worm infections in Chad and Ethiopia.
+
+3.  There are various challenges that wildlife agencies face when managing the transmission of CWD. Prions that cause CWD do not easily degrade in the external environment and persist, increasing indirect transmission. Additionally, barriers to mitigate the transmission of CWD are at the forefront of these challenges. This includes a lack of available treatments and vaccinations, the difficulty to identify infected individuals, the disparities reflected in detection at early outbreak phases, the presence of asymptomatic carriers, and the inability to eliminate CWD once it is detected in a population.
+
+4.  a\. **Incidence: a measure of risk that describes the new cases of a disease occurring within a susceptible population, where incidence = (Number of new cases in a time period)/(Total susceptible population)**
+
+    **March 2025:**
+
+    New Cases = 3, Susceptible Population = 60; Therefore, the incidence is 3/60 = 0.05 *M. leprae* cases per armadillo-month.
+
+    **April 2025:**
+
+    New Cases = 2, Susceptible Population = 57; Therefore, the incidence is 2/57 = 0.031 *M. leprae* cases per armadillo-month.
+
+    **May 2025:**
+
+    New Cases = 0, Susceptible Population = 55; Therefore, the incidence is 0/55 = 0 *M. leprae* cases per armadillo-month.
+
+    **June 2025:**
+
+    New Cases = 3, Susceptible Population = 55; Therefore, the incidence is 3/55 = 0.055 *M. leprae* cases per armadillo-month.
+
+    **July 2025:**
+
+    New Cases = 5, Susceptible Population = 52; Therefore, the incidence is 5/52 = 0.096 *M. leprae* cases per armadillo-month.
+
+    b\. The highest prevalence occurred in July 2025 with 21.7% prevalence of *M. leprae*, while March 2025 exhibited the lowest of 5% prevalence *M. leprae.*
+
+    **Calculations:**
+
+    **Prevalence = (The number of infections)/(The total population)**
+
+    **July 2025:**
+
+    The number of infections = 13, The total population = 60; therefore, 13/60 = 0.217, 21.7% prevalence of *M. leprae.*
+
+    **March 2025:**
+
+    The number of infections = 3, The total population = 60; therefore, 3/60 = 0.05, 5% prevalence of *M. leprae.*
+
+5.  a\. The etiological agent of Tularemia is *Francisella tularenesis.* The subspecies of this agent that causes Tularemia in aquatic animals is *F. tularenesis subspecies holartica* (Type B)*.*
+
+    b\. Tularemia can be transmitted through vectors, such as Deer-flies, American Dog ticks, mosquitos, and Lonestar ticks. Additionally, transmission can occur upon direct contact with infected animals, ingestion of contaminated water or undercooked game meat, and inhalation through aerosols or dust, adding a layer of complexity to bioterrorism concerns.
+
+    c\. In terms of Tularemia's significance in the human and public health sphere, the bacterium is considered a Category A bioterrorism agent as a result of its high infectivity and potential for aerosol spread, including the spread through vectors, such as mites, flies, and mosquitoes. The agent's role as a bioterrorism strategy requires significant consideration in its ability to infect humans. Although humans are considered dead-end hosts of Tularemia, the route of transmission is particularly significant to assess how clinical symptoms develop in humans. Namely, common signs and symptoms include fever, fatigue, anorexia, myalgia, and sore throat; however, different forms of Tularemia, such as ulceroglandular, glandular, and pneumonic, are indicative of how different transmission routes lead to symptoms and varying levels of severity. This results in Tularemia having a 24% death rate if treatment stalls. Otherwise, the death rate is 2% with timely intervention. Although Tularemia exhibits a relatively small death rate with treatment, its high infectivity, its associated risk as a bioterrorism agent, its various transmission routes, and its spread as a result of migration patterns pose serious public health implications.
+
+6.  a\. *Pseudogymnoascus destructans*
+
+    b\. Aetokthonotoxin
+
+    c\. Powassan encephalitis
+
+    d\. African Swine Fever
+
+    e\. *Borrelia burgdorferi*
+
+7.  a\. Nymphs, adults
+
+    b\. Small mammals, birds
+
+    c\. May-July, October-December
+
+    d\. White-footed mice, reproductive host.
+
+8.  The Georgia DNR's CWD surveillance system employs a hypergeometric distribution to estimate that CWD prevalence does not exceed 0.02%. Hypergeometric distribution estimates are employed to apply sample prevalence to a broader population, requiring a sufficient and representative sample. However, a representative sample requires random sampling and a normally distributed condition among the population, which are not entirely feasible in wildlife populations. This can result in infected white-tailed deer to be undetected in this hypergeometric distribution's sampling regime, indicating that disease is unlikely or low enough to be considered negligible. When, in reality, disease distribution in the white-tailed deer population can be uneven or clustered. Overall, the hypergeometric distribution can result in biased sampling and undermine the real presence of CWD in the white-tailed deer population.
+
+9.  a\. SARS-CoV-2 is categorized in the upper left quadrant, an emerging infectious disease. SARS-CoV-2 demonstrates cross-species infection; however, low between-species transmission occurs, while high within-H2 transmission rate is exhibited.
+
+    b\. Hantavirus Pulmonary Syndrome in the Americas demonstrates low-between species transmission as humans are typically infected through aerosolized feces. However, there are no confirmed cases of human-to-human transmission, making Hantavirus Pulmonary Syndrome a result of spillover and belonging in the lower left quadrant.
+
+    c\. Langya Henipavirus is categorized in the lower left quadrant, being a spillover. Langya Henipavirus reports no confirmed human-to-human transmission and exhibits very low prevalence among humans.
+
+    d\. Brucellosis is categorized in the upper right quadrant, being a true multihost pathogen. Brucellosis exhibits both high within-species and between-species transmission rates.
+
+    e\. West Nile Virus is categorized in the lower left quadrant, being a spillover. West Nile Virus exhibits both low within-species and between-species transmission rates.
+
+10. **Definitive Host:** marine mammals as *Anisakis simplex* can reach sexual maturity and reproduce.
+
+    **Dead-End Host:** humans as they are susceptible to the infection, but cannot effectively transmit Anisakiasis.
+
+    **Paratenic Host:** seafish and cephalopods as no further development of the parasite occurs. Rather, they serve to transport the pathogen to humans.
+
+    **Intermediate Hosts:** crustaceans as they are necessary for larva to continue developing inside them, making them required for transmission to the next host.
+
+11. Not all infected hosts are diseases as they do not always exhibit clinical symptoms to categorize disease. For example, white-tailed deer infected with meningeal worm rarely exhibit any symptoms or clinical disease. Therefore, white-tailed deer are only considered infected, not diseased. The white-tailed deer can still pass infectious larvae through their feces. And, after undergoing the appropriate meningeal disease cycle, can infect elk, which often exhibit clinical signs and are categorized as diseased. Pathogen dynamics further reveal that not all infected hosts develop disease. Moreover, in humans, Covid-19 infection can occur, but does not always result in the development of clinical symptoms or disease.
+
+12. **Vaccination Threshold = (1-1/Basic Reproduction Number)**
+
+    1-(1/2.5) = 0.6. 60% of the seal population should be vaccinated to prevent a future outbreak of PDV.
+
+13. There are various factors that pose difficulties in managing wildlife diseases. These include habitat overlap, lack of proper biosecurity measures, the unavailability of treatment and vaccines, seasonal changes, and an inability to monitor free-ranging hosts. In terms of habitat overlap, this is demonstrated with increased cases of African Swine Fever. As a result of agricultural expansion, habitat fragmentation has resulted in an increased stressor, resulting in an increase in African Swine Fever. Additionally, this pattern is observed with various other disease systems and is not exclusive to African Swine Fever. This is evident in increased *Salmonella enterica* cases, where limited education of backyard poultry farmers has resulted in inconsistent and often lackluster biosecurity measures. With humans and backyard poultry living within close proximity of each other, the human-poultry interface reflects increased exposure to *S. enterica* among humans. Although *S. enterica* transmission is highly preventable among backyard poultry farmers, antimicrobial resistance of strains poses an additional barrier to mitigate the spread of disease, allowing the bacterium to persist in the environment. Furthermore, the unavailability of treatment and vaccines poses another complex threat to the management of wildlife diseases. As demonstrated with CWD in cervids, no vaccinations or treatments has disproportionately burdened wildlife agencies as increasing questions arise about CWD's potential for spillover. Seasonal and climactic phenomenon is another significant barrier in managing wildlife diseases. For example, with Hantavirus Pulmonary Syndrome, El Nino results in an increase in the rodent population, translating into an increase in disease incidence. Seasonal and climactic changes place wildlife agencies in a precarious position when assessing wildlife behavior and range expansion, even modifying approaches to tick-borne diseases as a result. Lastly, an inability to manage free-ranging hosts represents a significant barrier to mitigating wildlife disease. This is further demonstrated in CWD surveillance, where free-ranging hosts contribute to underrepresented samples in CWD prevalence estimates. Overall, there are various factors that contribute to the difficulty of managing wildlife diseases. Further exploration of how each mechanism must be targeted is needed.
